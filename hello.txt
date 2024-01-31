@@ -1,1 +1,1 @@
-hello world
+hello world, this statement is for buyer branch only.
